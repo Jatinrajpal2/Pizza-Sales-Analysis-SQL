@@ -90,20 +90,6 @@ The analysis answers 15 business questions:
 
 ---
 
-## 📈 Project Highlights
-
-This project demonstrates the ability to:
-
-- Work with relational databases
-- Combine data from multiple tables using JOINs
-- Perform business-oriented aggregations
-- Analyze sales trends using date/time functions
-- Use CTEs for structured analysis
-- Apply Window Functions for cumulative revenue
-- Convert raw transactional data into business insights
-
----
-
 🚀 Conclusion
 
 The project demonstrates how SQL can be used to transform transactional pizza sales data into meaningful business insights.

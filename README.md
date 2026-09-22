@@ -105,7 +105,9 @@ This project demonstrates the ability to:
 ---
 
 🚀 Conclusion
+
 The project demonstrates how SQL can be used to transform transactional pizza sales data into meaningful business insights.
+
 The analysis covers sales performance, product demand, revenue contribution, customer ordering behavior, and temporal ordering patterns using Microsoft SQL Server.
 
 ---
@@ -114,13 +116,4 @@ The analysis covers sales performance, product demand, revenue contribution, cus
 [Jatin Rajpal]
 
 ---
-
-## 📁 Project Structure
-
-text
-Pizza-Sales-SQL-Analysis/
-│
-├── pizza_sales_analysis.sql
-├── README.md
-└── Pizza Sales Analysis.pdf
 

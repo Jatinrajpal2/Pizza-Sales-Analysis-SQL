@@ -75,8 +75,8 @@ The analysis answers 15 business questions:
 - **SQL**
 - **Multi-table JOINs**
 - **Aggregate Functions**
-- **CTEs
-- **Window Functions
+- **CTEs**
+- **Window Functions**
 - **Date & Time Functions**
 ---
 

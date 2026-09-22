@@ -73,7 +73,11 @@ The analysis answers 15 business questions:
 
 - **Microsoft SQL Server**
 - **SQL**
-
+- **Multi-table JOINs**
+- **Aggregate Functions**
+- **CTEs
+- **Window Functions
+- **Date & Time Functions**
 ---
 
 ## 📊 Key Insights

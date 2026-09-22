@@ -99,4 +99,4 @@ The analysis covers sales performance, product demand, revenue contribution, cus
 ---
 
 ## 👤 Author
-[Jatin Rajpal]
+Jatin Rajpal

@@ -90,7 +90,7 @@ The analysis answers 15 business questions:
 
 ---
 
-🚀 Conclusion
+## 🚀 Conclusion
 
 The project demonstrates how SQL can be used to transform transactional pizza sales data into meaningful business insights.
 

@@ -100,13 +100,3 @@ The analysis covers sales performance, product demand, revenue contribution, cus
 
 ## 👤 Author
 [Jatin Rajpal]
-
----
-## 📁 Project Structure
-
-🍕 Pizza-Sales-SQL-Analysis/
-
-│  
-├── 🗄️ pizza_sales_analysis.sql  
-├── 📄 Pizza Sales Analysis.pdf  
-└── 📖 README.md

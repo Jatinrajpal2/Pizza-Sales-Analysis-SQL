@@ -83,7 +83,7 @@ The analysis answers 15 business questions:
 ## 📊 Key Insights
 
 - $817.86K revenue generated from 21.35K orders.
-- 49.57K pizzas sold with 2.32 pizzas per order.
+- Sold 49.57K pizzas.
 - Classic Deluxe Pizza is the top-selling pizza by quantity.
 - Thai Chicken Pizza generates the highest revenue.
 - Classic Category contributes the largest share of total revenue.
